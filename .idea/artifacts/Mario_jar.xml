@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Mario:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mario_jar</output-path>
+    <root id="root">
+      <element id="module-output" name="Hulk" />
+    </root>
+  </artifact>
+</component>
